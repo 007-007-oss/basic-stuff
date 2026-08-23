@@ -1,2 +1,2 @@
 # basic-stuff
-doing just basic 
+doing just basic about pandas 
